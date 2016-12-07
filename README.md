@@ -1,5 +1,5 @@
 # Cpanel-Backup
-Simple script to backup your Public_html directory including your mysql database in cPanel using cron.
+Simple shell script to backup your cpanel Public_html directory including your mysql database in cPanel using cron.
 
 # Please read the following instructions before using this script.
 
